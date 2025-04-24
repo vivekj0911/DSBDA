@@ -1,0 +1,39 @@
+[
+  {
+    "image_path": "C:/Users/prath/Downloads/DSBDA_project/DSBDA_project/a01-000u.png",
+    "timestamp": "2025-04-20 19:27:14",
+    "features": {
+      "left_margin_good": 0,
+      "right_margin_good": 0,
+      "top_margin_good": 1,
+      "bottom_margin_good": 1,
+      "is_line_straight": 0,
+      "is_line_sloped": 0,
+      "is_line_curved": 0,
+      "left_margin": 0,
+      "top_margin": 80,
+      "right_margin": 28,
+      "bottom_margin": 471,
+      "left_margin_ratio": 0.0,
+      "right_margin_ratio": 0.02258064516129032,
+      "top_margin_ratio": 0.04561003420752566,
+      "bottom_margin_ratio": 0.2685290763968073,
+      "mean_line_angle": 0,
+      "std_line_angle": 0,
+      "num_lines": 0,
+      "avg_word_spacing": 242.8,
+      "std_word_spacing": 441.22892017636383,
+      "spacing_density": 0.004032258064516129,
+      "text_density": 0.05011193139264051,
+      "line_height_variation": 2.2858044075676958,
+      "horizontal_alignment": 0.05741625808403233
+    },
+    "traits": {
+      "family_attachment": true,
+      "risk_taking": 0,
+      "energy": 0,
+      "planning": 1,
+      "personality_type": "introvert"
+    }
+  }
+]
